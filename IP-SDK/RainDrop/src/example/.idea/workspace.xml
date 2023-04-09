@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbe69ee9-f877-43ec-a24c-f56d191f6c5d" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/InstrumentsPlayground.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/InstrumentsPlayground.lvlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog IO Channel Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog IO Channel Node Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Buffer Size Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Channel Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Channel Range Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Configure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Frequency Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Status.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Trigger Auto Timeout Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Trigger Condition Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Trigger Level Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Trigger Source Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog In Trigger Type Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog Out Configure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog Out Node Data Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog Out Node Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog Out Node Frequency Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog Out Node Function Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog Out Node Offset Amp Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog Out Node Phase Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Analog Out Node Symmetry Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Calibration Read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Calibration Write.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital I2C Rate Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital I2C Rx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital I2C Tx Rx IO Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital I2C Tx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital IO Input Status.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital IO Output Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital IO Output Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital In Buffer Size Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital In Channel Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital In Configure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital In Divider Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital In Read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital In Status.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital In Trigger Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital In Trigger Slope Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital In Trigger Source Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital In Trigger Timeout Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital In Trigger Type Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Out Counter Init Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Out Counter Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Out Divider Init Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Out Divider Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Out Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Out Idle Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Out Run.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Out Trigger Slope Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Out Trigger Source Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Out Type Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital SPI Rate Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital SPI Rx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital SPI Tx Rx IO Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital SPI Tx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Uart Rate Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Uart Rx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital Uart Tx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Digital UartTx Rx IO Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Enum Device Count.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD Enum Device Info.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD SDK VERSION.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD device Close.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/RD device Open.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/dir.mnu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/VIs/write.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/32/ftd2xx.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/InstrumentsPlayground.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/InstrumentsPlayground.lvlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog IO Channel Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog IO Channel Node Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Buffer Size Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Channel Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Channel Range Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Configure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Frequency Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Status.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Trigger Auto Timeout Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Trigger Condition Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Trigger Level Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Trigger Source Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog In Trigger Type Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog Out Configure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog Out Node Data Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog Out Node Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog Out Node Frequency Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog Out Node Function Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog Out Node Offset Amp Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog Out Node Phase Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Analog Out Node Symmetry Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Calibration Read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Calibration Write.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital I2C Rate Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital I2C Rx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital I2C Tx Rx IO Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital I2C Tx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital IO Input Status.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital IO Output Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital IO Output Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital In Buffer Size Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital In Channel Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital In Configure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital In Divider Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital In Read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital In Status.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital In Trigger Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital In Trigger Slope Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital In Trigger Source Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital In Trigger Timeout Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital In Trigger Type Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Out Counter Init Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Out Counter Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Out Divider Init Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Out Divider Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Out Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Out Idle Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Out Run.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Out Trigger Slope Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Out Trigger Source Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Out Type Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital SPI Rate Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital SPI Rx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital SPI Tx Rx IO Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital SPI Tx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Uart Rate Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Uart Rx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital Uart Tx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Digital UartTx Rx IO Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Enum Device Count.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD Enum Device Info.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD SDK VERSION.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD device Close.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/RD device Open.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/dir.mnu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/VIs/write.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/64/ftd2xx64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/CalibrationRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/CalibrationWrite.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DeviceFind.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DeviceSwitch.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalINBuffserSizeSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalINChannelSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalINConfigure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalINFreSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalINRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalINStatus.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalINTriggerSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalOutChannelSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalOutCounterSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalOutDividerSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalOutIDLESet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalOutRun.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalOutTriggerSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/DigitalOutTypeSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/I2CFreSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/I2CIOSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/I2CRxRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/I2CTxWrite.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/SPIFreSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/SPIOSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/SPIRxRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/SPITxWrite.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/ScopeBuffserSize.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/ScopeCHConfig.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/ScopeClock.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/ScopeRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/ScopeStatus.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/ScopeSwitch.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/ScopeTrigger.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/SupplyCHConfig.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/SupplySwitch.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/UartFreSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/UartIOSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/UartRxRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/UartTxWrite.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/WavegenSwitch.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/API/Wavegen_SimpleConfig.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-AI Scope IN+Signal Processing+AO Wavegen OUT.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-AI Stream IN+Signal Processing+AO Stream OUT.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-AnalogInSimple.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-AnalogOutSimple.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-DigitalINSimple.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-DigitalOutSimple.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-Find&amp;Open&amp;CloseDevice.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-FunctionWaveGeneration.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-I2C.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-Lissajous-Figure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-SPI.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-Supply.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-Uart.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Examples/Example-超声波测距-uart.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/InstrumentsPlayground.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/InstrumentsPlayground.lvlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/Tips.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog IO Channel Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog IO Channel Node Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Buffer Size Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Channel Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Channel Range Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Configure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Frequency Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Status.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Trigger Auto Timeout Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Trigger Condition Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Trigger Level Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Trigger Source Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog In Trigger Type Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog Out Configure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog Out Node Data Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog Out Node Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog Out Node Frequency Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog Out Node Function Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog Out Node Offset Amp Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog Out Node Phase Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Analog Out Node Symmetry Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Calibration Read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Calibration Write.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital I2C Rate Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital I2C Rx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital I2C Tx Rx IO Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital I2C Tx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital IO Input Status.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital IO Output Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital IO Output Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital In Buffer Size Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital In Channel Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital In Configure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital In Divider Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital In Read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital In Status.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital In Trigger Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital In Trigger Slope Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital In Trigger Source Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital In Trigger Timeout Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital In Trigger Type Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Out Counter Init Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Out Counter Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Out Divider Init Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Out Divider Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Out Enable Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Out Idle Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Out Run.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Out Trigger Slope Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Out Trigger Source Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Out Type Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital SPI Rate Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital SPI Rx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital SPI Tx Rx IO Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital SPI Tx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Uart Rate Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Uart Rx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital Uart Tx.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Digital UartTx Rx IO Set.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Enum Device Count.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD Enum Device Info.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD SDK VERSION.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD device Close.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/RD device Open.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/dir.mnu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/read.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/VIs/write.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/dir.mnu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/ftd2xx.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/ftd2xx64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/instrumentsplayground.aliases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/instrumentsplayground.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/instrumentsplayground.lvlps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/instrumentsplayground.lvproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/CalibrationRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/CalibrationWrite.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DeviceFind.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DeviceSwitch.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalINBuffserSizeSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalINChannelSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalINConfigure.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalINFreSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalINRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalINStatus.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalINTriggerSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalOutChannelSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalOutCounterSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalOutDividerSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalOutIDLESet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalOutRun.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalOutTriggerSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/DigitalOutTypeSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/I2CFreSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/I2CIOSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/I2CRxRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/I2CTxWrite.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/SPIFreSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/SPIOSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/SPIRxRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/SPITxWrite.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/ScopeBuffserSize.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/ScopeCHConfig.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/ScopeClock.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/ScopeRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/ScopeStatus.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/ScopeSwitch.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/ScopeTrigger.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/SupplyCHConfig.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/SupplySwitch.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/UartFreSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/UartIOSet.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/UartRxRead.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/UartTxWrite.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/WavegenSwitch.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/IPLabView lib_V1.0/IPLabView lib/subVIs/Wavegen_SimpleConfig.vi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/RADME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/ftd2xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/lib/32/InstrumentsPlayground.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/lib/32/ftd2xx.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/lib/64/InstrumentsPlayground.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/lib/64/ftd2xx64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/lib/instrumentsplayground.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/setup.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/src/example/ScopeAndWavegen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/src/pyRD/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/src/pyRD/core/RDconstant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/src/pyRD/core/RDfunction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IP_SDK_Release_1.0_2023Feb/RainDrop/src/pyRD/core/__init__.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OBEy5bFyiPRbGwTw7xPgOUMJl7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="UART" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UART.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.UART" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="cbe69ee9-f877-43ec-a24c-f56d191f6c5d" name="变更" comment="" />
+      <created>1681025838322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681025838322</updated>
+    </task>
+    <servers />
+  </component>
+</project>
