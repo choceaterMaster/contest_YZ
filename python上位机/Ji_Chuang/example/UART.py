@@ -33,7 +33,7 @@ Rate=9600
 RxSize=4
 rd.DigitalUartDIOSet(IO_Tx,IO_Rx)
 rd.DigitalUartRateSet(Rate)
-#rd.DigitalUartTx([0xFD,0x00,0xCC,0xDF])
+rd.DigitalUartTx([0xFD,0x00,0xCC,0xDF])
 time.sleep(1)
 i=10
 while i>=0:

@@ -33,13 +33,16 @@ DQ0=2
 DQ1=3
 Rate=10000
 RxSize=4
-rd.DigitalSPIDIOSet(IO_Tx,IO_Rx)
+#rd.DigitalSPIDIOSet(IO_Tx,IO_Rx)
+#rd.DigitalSPIDIOSet(CSDIO,CLKDIO)
 rd.DigitalSPIRateSet(Rate)
-rd.DigitalSPITx([0xFD,0x00,0xCC,0xDF])
+#rd.DigitalSPITx([0xFD,0x00,0xCC,0xDF])
+print(rd.DigitalUartRx())
 time.sleep(1)
 rd.DigitalSPIRx(RxSize)
-    
-print(list(rd.spidata))
+
+#print(list(rd.spidata))
+print(list(rd.SPIdata))
 
 # close connect
 print(rd.DeviceClose())

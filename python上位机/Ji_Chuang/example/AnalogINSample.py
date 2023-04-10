@@ -59,7 +59,7 @@ i=0
 while(rd.analoginstatus!=2)&(i<10):
     rd.AnalogInStatus()
     i=i+1
-    print(rd.analoginstatus)
+    print("rd.analoginstatus",rd.analoginstatus)
     
 #analogIn data read
 if(rd.analoginstatus==2):
