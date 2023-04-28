@@ -4,7 +4,6 @@ Created on Tue Mar 28 09:57:02 2023
 
 @author: jackscl
 """
-
 import matplotlib.pyplot as plt
 import numpy as np
 import time
@@ -35,8 +34,8 @@ rd.DigitalUartDIOSet(IO_Tx,IO_Rx)
 rd.DigitalUartRateSet(Rate)
 rd.DigitalUartTx([0xFD,0x00,0xCC,0xDF])
 time.sleep(1)
-i=10
-while i>=0:
+i=1000
+while 1:
     rd.DigitalUartRx(RxSize)
     time.sleep(0.5)
     print(list(rd.uartdata))
