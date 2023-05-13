@@ -14,7 +14,7 @@ if sys.path.count(base_dir) == 0:
 
 from pyRD import RD
 from pyRD.core.RDconstant import *
-from LMS import *
+import soundfile as sf
 rd = RD()
 rd.DeviceEnumLists()
 print(rd.devicelist)
@@ -28,13 +28,15 @@ in_ch=0 #0 or 1 for channel 1 or 2
 in_ch2=1
 in_range=5 #5 or 25
 in_range2=25#not use until use double chs
-in_fre=1e6
+# in_fre=1e6
+in_fre=44100
 trig_timeout = 0 # 0 for forever, 1 for 1s
 trig_src=RDTRIGSRCNone #RDTRIGSRCDetectorAnalogInCH1 for anlogout channel 1
 trig_type=RDTRIGTYPEEdge
 trig_leve=0
 trig_slope=RDTriggerSlopeEdge
-buffersize=2048 # 0.002s
+# buffersize=2048 # 0.002s
+buffersize=2048
 
 rd.AnalogInCHEnable(in_ch,True)
 rd.AnalogInCHRangeSet(in_ch,in_range)
@@ -57,24 +59,46 @@ while(rd.analoginstatus!=2)&(i<10):
     print("rd.analoginstatus=",rd.analoginstatus)
 #analogIn data read
 if(rd.analoginstatus==2):
-    rd.AnalogInRead(buffersize,0)
+
+
+    # rd.AnalogInRead(buffersize,0)
     #rd.AnalogInRead(buffersize,1)
     #print(rd.aibacksizech1,rd.aibacksizech2)
-    data=np.array(rd.aidatach1)
+    data=[]
+    for j in range(50):
+        # rd.AnalogInCHEnable(in_ch, True)
+        if (rd.analoginstatus == 2):
+            rd.AnalogInRun(True)
+            rd.AnalogInRead(buffersize, 0)
+            data_tmp = np.array(rd.aidatach1)
+            data = np.append(data, data_tmp)
+
+
+            # rd.AnalogInCHEnable(in_ch, False)
+            rd.AnalogInRun(False)
+
+
     size=rd.aibacksizech1
-    av_data=aver(data)
-    print("av_data=",av_data)
-    fil_data=lms(data,av_data)
+    # av_data=aver(data)
+    # print("av_data=",av_data)
+    # fil_data=lms(data,av_data)
     #rd.aidatach1 采样数组?
     #rd.aibacksizech1 实际大小？
+
     print("rd.aibacksizech1=",rd.aibacksizech1)
-    value=list(fil_data)#the ch1 scope data as c_char_p(4086)  don't use rd.aidatach1.value
+    # value=list(fil_data)#the ch1 scope data as c_char_p(4086)  don't use rd.aidatach1.value
     ori_value=list(data)
     #err=list(fil_data-data)
-    plt.plot(ori_value,'x')
-    plt.plot(value,'o')
+    plt.plot(ori_value)
+    print(ori_value)
+    # plt.plot(value,'o')
     plt.show()
+    samplerate = 44100
 
+    sf.write('_513data.wav', np.array(ori_value), samplerate)
+    # f=open("_513word.txt","w")
+    # f.write(ori_value.__str__())
+    # f.close()
 # close all instruments
 print(rd.AnalogInRun(False))
 # close connect
